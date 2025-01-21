@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eya+7+qpLy0=",
+  "success": true,
+  "projectFilePath": "D:\\wsiiz\\jezykiParadygmaty\\Lab5\\zad1\\zad1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tkach_17\\.nuget\\packages\\fsharp.core\\9.0.100\\fsharp.core.9.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
